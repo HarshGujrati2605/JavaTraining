@@ -5,12 +5,14 @@ public class TestCar {
 		BMW obj = new BMW();
 		obj.engineType();
 		obj.startmethod();
-		obj.stopmethod();
-		
+		obj.stopmethod();		
 		Car ref = new BMW();
 		ref.engineType();
 		ref.stopmethod();
-		ref.startmethod(); // This method is start method wrote by Lucky
+		ref.startmethod();  // Sample method by pallavi T
+
+		ref.startmethod(); //This method is start method lucky
+		
 
 	}
 
