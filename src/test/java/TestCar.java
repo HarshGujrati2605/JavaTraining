@@ -10,8 +10,7 @@ public class TestCar {
 		Car ref = new BMW();
 		ref.engineType();
 		ref.stopmethod();
-		ref.startmethod();// This is start method wrote by pallavi
-		
+		ref.startmethod(); // This method is start method wrote by Lucky
 
 	}
 
