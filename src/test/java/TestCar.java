@@ -5,8 +5,7 @@ public class TestCar {
 		BMW obj = new BMW();
 		obj.engineType();
 		obj.startmethod();
-		obj.stopmethod();
-		
+		obj.stopmethod();		
 		Car ref = new BMW();
 		ref.engineType();
 		ref.stopmethod();
